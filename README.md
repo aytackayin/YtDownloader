@@ -64,6 +64,15 @@ If you want to contribute or build the app yourself:
 
 ![Preview](PREVIEW.png)
 
+### 🔐 SHA256 Checksum
+You can verify the integrity of the downloaded files using the following SHA256 hashes:
+
+| File | SHA256 Checksum |
+| :--- | :--- |
+| **ytdownloader.exe** | `213b0eabc4efa6a248083a5cb9a7f16391714b26c48ba276e7838bd58e5f9fa5` |
+| **YtDownloader_1.0.0_x64-setup.exe** | `bd0c5777e124aa17a70448495d237f761883b21b387a2be66e6a26a461b1dd6c` |
+| **YtDownloader_1.0.0_x64_en-US.msi** | `1329eab320be38043f053e33b6c46ea6044d9eeea720d5df89417ae2816393d7` |
+
 ## 🔒 Security Transparency (VirusTotal Scan)
 
 To ensure transparency and user trust, all distributed binaries are publicly scanned using VirusTotal.
