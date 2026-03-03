@@ -1,0 +1,51 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node modules
+node_modules/
+dist
+dist-ssr
+*.local
+
+# Editor folders and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Tauri
+src-tauri/target
+src-tauri/binaries
+src-tauri/gen
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
+.venv
+env/
+requirements.txt
+# (Assuming requirements.txt might be needed, but if it's a sidecar it might be different)
+
+# Build artifacts
+*.exe
+*.msi
+*.deb
+*.rpm
+*.dmg
+*.app
+*.zip
+*.tar.gz

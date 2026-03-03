@@ -1,0 +1,46 @@
+{
+    "common": {
+        "cancel": "Cancel",
+        "close": "Close",
+        "save": "Save",
+        "error": "Error",
+        "loading": "Loading...",
+        "select": "Select",
+        "none": "None",
+        "clear": "Clear"
+    },
+    "header": {
+        "urlPlaceholder": "Paste YouTube or Instagram URL...",
+        "addToList": "Add to List",
+        "paste": "Paste",
+        "analyzing": "Analyzing...",
+        "settings": "Settings"
+    },
+    "controls": {
+        "selectAll": "All",
+        "selectedCount": "{count} / {total} selected",
+        "downloadSelected": "Download Selected",
+        "pause": "Pause",
+        "resume": "Resume",
+        "clearList": "Clear List"
+    },
+    "videoCard": {
+        "downloading": "Downloading",
+        "completed": "Completed",
+        "error": "Error",
+        "paused": "Paused",
+        "retry": "Retry",
+        "removeFromList": "Remove from List",
+        "format": "Format",
+        "resolution": "Resolution",
+        "listEmpty": "Download list is empty",
+        "listEmptySub": "Start by pasting a YouTube or Instagram URL above"
+    },
+    "settings": {
+        "title": "Settings",
+        "downloadFolder": "Download Folder",
+        "folderNotSelected": "No folder selected...",
+        "folderHelp": "Videos will be downloaded to subfolders named after the uploader in this folder.",
+        "language": "App Language"
+    }
+}

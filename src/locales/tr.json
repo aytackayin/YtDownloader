@@ -1,0 +1,46 @@
+{
+    "common": {
+        "cancel": "İptal",
+        "close": "Kapat",
+        "save": "Kaydet",
+        "error": "Hata",
+        "loading": "Yükleniyor...",
+        "select": "Seç",
+        "none": "Yok",
+        "clear": "Temizle"
+    },
+    "header": {
+        "urlPlaceholder": "YouTube veya Instagram URL'si yapıştırın...",
+        "addToList": "Listeye Ekle",
+        "paste": "Yapıştır",
+        "analyzing": "Analiz...",
+        "settings": "Ayarlar"
+    },
+    "controls": {
+        "selectAll": "Tümü",
+        "selectedCount": "{count} / {total} seçili",
+        "downloadSelected": "Seçilenleri İndir",
+        "pause": "Duraklat",
+        "resume": "Devam Et",
+        "clearList": "Listeyi Temizle"
+    },
+    "videoCard": {
+        "downloading": "İndiriliyor",
+        "completed": "Tamamlandı",
+        "error": "Hata",
+        "paused": "Duraklatıldı",
+        "retry": "Yeniden Dene",
+        "removeFromList": "Listeden Kaldır",
+        "format": "Format",
+        "resolution": "Çözünürlük",
+        "listEmpty": "İndirme listesi boş",
+        "listEmptySub": "Yukarıdan YouTube veya Instagram URL'si yapıştırarak başlayın"
+    },
+    "settings": {
+        "title": "Ayarlar",
+        "downloadFolder": "İndirme Klasörü",
+        "folderNotSelected": "Klasör seçilmedi...",
+        "folderHelp": "Videolar bu klasöre yükleyici adına göre alt klasörlere indirilecektir.",
+        "language": "Uygulama Dili"
+    }
+}
