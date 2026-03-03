@@ -64,6 +64,58 @@ If you want to contribute or build the app yourself:
 
 ![Preview](PREVIEW.png)
 
+## 🔒 Security Transparency (VirusTotal Scan)
+
+To ensure transparency and user trust, all distributed binaries are publicly scanned using VirusTotal.
+
+Users can independently verify each release file using the links and SHA-256 hashes below.
+
+---
+
+### 📦 Release Files Scan Results
+
+#### 🖥️ Portable Version
+
+**File:** `ytdownloader.exe`  
+**VirusTotal Report:**  
+https://www.virustotal.com/gui/file/213b0eabc4efa6a248083a5cb9a7f16391714b26c48ba276e7838bd58e5f9fa5?nocache=1  
+
+**SHA-256:** 213b0eabc4efa6a248083a5cb9a7f16391714b26c48ba276e7838bd58e5f9fa5
+
+---
+
+#### 📦 MSI Installer
+
+**File:** `YtDownloader_1.0.0_x64_en-US.msi`  
+**VirusTotal Report:**  
+https://www.virustotal.com/gui/file/1329eab320be38043f053e33b6c46ea6044d9eeea720d5df89417ae2816393d7?nocache=1  
+
+**SHA-256:** 1329eab320be38043f053e33b6c46ea6044d9eeea720d5df89417ae2816393d7
+
+---
+
+#### ⚙️ Setup Installer (EXE)
+
+**File:** `YtDownloader_1.0.0_x64-setup.exe`  
+**VirusTotal Report:**  
+https://www.virustotal.com/gui/file/bd0c5777e124aa17a70448495d237f761883b21b387a2be66e6a26a461b1dd6c?nocache=1  
+
+**SHA-256:** bd0c5777e124aa17a70448495d237f761883b21b387a2be66e6a26a461b1dd6c
+
+---
+
+### 🛡️ Verification Notice
+
+All binaries are built directly from the public source code available in this repository.
+
+If any antivirus software reports warnings, users are encouraged to:
+
+- Verify the file hashes listed above  
+- Review the VirusTotal multi-engine scan results  
+- Build the project from source for full verification  
+
+Security and transparency are priorities of this project.
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to open an issue or submit a pull request.

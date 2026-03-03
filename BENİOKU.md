@@ -64,6 +64,58 @@ Projeyi yerelinizde çalıştırmak veya kendi sürümünüzü oluşturmak ister
 
 ![Preview](PREVIEW.png)
 
+## 🔒 Güvenlik Şeffaflığı (VirusTotal Taraması)
+
+Şeffaflığı ve kullanıcı güvenini sağlamak için, dağıtılan tüm dosyalar VirusTotal kullanılarak herkese açık bir şekilde taranmıştır.
+
+Kullanıcılar, aşağıdaki bağlantıları ve SHA-256 kodlarını kullanarak her bir yayın dosyasını bağımsız olarak doğrulayabilirler.
+
+---
+
+### 📦 Yayın Dosyaları Tarama Sonuçları
+
+#### 🖥️ Taşınabilir Sürüm (Portable)
+
+**Dosya:** `ytdownloader.exe`  
+**VirusTotal Raporu:**  
+https://www.virustotal.com/gui/file/213b0eabc4efa6a248083a5cb9a7f16391714b26c48ba276e7838bd58e5f9fa5?nocache=1  
+
+**SHA-256:** 213b0eabc4efa6a248083a5cb9a7f16391714b26c48ba276e7838bd58e5f9fa5
+
+---
+
+#### 📦 MSI Yükleyici
+
+**Dosya:** `YtDownloader_1.0.0_x64_en-US.msi`  
+**VirusTotal Raporu:**  
+https://www.virustotal.com/gui/file/1329eab320be38043f053e33b6c46ea6044d9eeea720d5df89417ae2816393d7?nocache=1  
+
+**SHA-256:** 1329eab320be38043f053e33b6c46ea6044d9eeea720d5df89417ae2816393d7
+
+---
+
+#### ⚙️ Kurulum Dosyası (Setup EXE)
+
+**Dosya:** `YtDownloader_1.0.0_x64-setup.exe`  
+**VirusTotal Raporu:**  
+https://www.virustotal.com/gui/file/bd0c5777e124aa17a70448495d237f761883b21b387a2be66e6a26a461b1dd6c?nocache=1  
+
+**SHA-256:** bd0c5777e124aa17a70448495d237f761883b21b387a2be66e6a26a461b1dd6c
+
+---
+
+### 🛡️ Doğrulama Bildirimi
+
+Tüm dosyalar doğrudan bu depoda bulunan açık kaynak kodlarından derlenmiştir.
+
+Herhangi bir antivirüs yazılımı uyarı verirse, kullanıcıların şunları yapması önerilir:
+
+- Yukarıda listelenen dosya doğrulama kodlarını (hash) kontrol edin
+- VirusTotal çoklu motor tarama sonuçlarını inceleyin
+- Tam doğrulama için projeyi kaynak kodundan kendiniz derleyin
+
+Güvenlik ve şeffaflık bu projenin öncelikleridir.
+
 ## 🤝 Katkıda Bulunma
 
 Katkılarınız bekliyoruz! Bir sorun (issue) açmaktan veya bir çekme isteği (pull request) göndermekten çekinmeyin.
